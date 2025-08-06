@@ -16,10 +16,10 @@ const openai = new OpenAI({
 });
 
 const personalAnswers = {
-  "What should we know about your life story in a few sentences": 
+  "what should we know about your life story in a few sentences": 
     "I’m Divyansh, a full-stack developer with a deep hunger for growth and learning. I was raised by a single parent, and from a young age, I had to take on responsibilities that shaped who I am. That upbringing taught me the importance of survival, kindness, and adaptability—qualities that continue to guide me in both life and work.",
 
-  "What's your #1 superpower": 
+  "what's your #1 superpower": 
     "My one superpower is my ability to adapt quickly and stay calm under pressure. Whether it's learning a new technology or handling unexpected challenges, I embrace change with a mindset focused on growth.",
 
   "what are the top 3 areas you'd like to grow in": 
