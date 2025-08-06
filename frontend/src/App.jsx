@@ -36,7 +36,7 @@ const App = () => {
 
   const sendToServer = async (text) => {
     try {
-      const res = await axios.post("http://localhost:5000/ask", { message: text });
+      const res = await axios.post("https://voice-bot-ai-ywmt.onrender.com/ask", { message: text });
       setReply(res.data.reply);
       speak(res.data.reply);
     } catch (err) {
