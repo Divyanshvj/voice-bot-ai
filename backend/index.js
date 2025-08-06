@@ -22,7 +22,7 @@ const personalAnswers = {
   "what's your number one superpower": 
     "My one superpower is my ability to adapt quickly and stay calm under pressure. Whether it's learning a new technology or handling unexpected challenges, I embrace change with a mindset focused on growth.",
 
-  "what are the top three areas you'd like to grow in": 
+  "what are the top three areas you would like to grow in": 
     "1. Deepening my knowledge of scalable backend architectures, 2. Becoming more confident and articulate in public and professional communication, 3. Exploring AI integrations and creative experimentation with new tools.",
 
   "what misconception do your coworkers have about you": 
